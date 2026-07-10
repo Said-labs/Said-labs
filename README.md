@@ -1,6 +1,8 @@
 <h2 align="center">Hi, I'm Sa'id Aziz <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVoNzhhMGZjemdsM25qb3I0amxzamliYThnYmFneXNlbWlvOW8xZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ypdctvKgoeJiZoED1B/giphy.gif" width="1000">
+</h2>
 
-#  About Me:
+# About Me:
 I am Sa'id Aziz, an Informatics student eager to expand my knowledge and skills in the technology sector. I am passionate about exploring the latest innovations and committed to leveraging them to create impactful solutions and enhance existing software 
 
 ⚡ Fun fact: I enjoy interacting with others and listening to their life stories; this helps me broaden my horizons and understand diverse perspectives across various fields 
