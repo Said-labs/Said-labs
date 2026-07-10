@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Rishika Gupta  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+<h2 align="center">Hi, I'm Sa'id Aziz <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
 #  About Me:
 I am Sa'id Aziz, an Informatics student eager to expand my knowledge and skills in the technology sector. I am passionate about exploring the latest innovations and committed to leveraging them to create impactful solutions and enhance existing software 
