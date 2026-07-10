@@ -27,4 +27,7 @@ I am Sa'id Aziz, an Informatics student eager to expand my knowledge and skills 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📫Connect with me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1511219453650669680) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/saidazizzy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/sa-id-6037033b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saidaziz.expert@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1511219453650669680) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saidazizzy) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sa-id-6037033b8) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saidaziz.expert@gmail.com)
