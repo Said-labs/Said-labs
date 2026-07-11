@@ -18,7 +18,7 @@ I am Sa'id Aziz, an Informatics student eager to expand my knowledge and skills 
 ![](https://github-readme-stats.shion.dev/api?username=Said-labs&theme=rose&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=Said-labs&theme=rose&hide_border=false)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Said-labs&theme=rose)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Said-labs&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![github contribution grid snake animation](https://said-labs.github.io/Said-labs/github-contribution-grid-snake.svg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Said-labs&limit=5&theme=rose&combine_all_yearly_contributions=true)
