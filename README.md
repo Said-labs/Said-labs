@@ -15,10 +15,13 @@ I am Sa'id Aziz, an Informatics student eager to expand my knowledge and skills 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white).![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
+![github contribution grid snake animation](https://said-labs.github.io/Said-labs/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Said-labs&theme=rose)
 ![](https://github-readme-stats.shion.dev/api?username=Said-labs&theme=rose&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=Said-labs&theme=rose&hide_border=false)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Said-labs&theme=rose)
-![github contribution grid snake animation](https://said-labs.github.io/Said-labs/github-contribution-grid-snake.svg)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Said-labs&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Said-labs&limit=5&theme=rose&combine_all_yearly_contributions=true)
@@ -31,4 +34,4 @@ I am Sa'id Aziz, an Informatics student eager to expand my knowledge and skills 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sa-id-6037033b8) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saidaziz.expert@gmail.com)
 
-![](./metrics_renders/metrics.svg)
+
