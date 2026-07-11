@@ -17,8 +17,9 @@ I am Sa'id Aziz, an Informatics student eager to expand my knowledge and skills 
 # 📊 GitHub Stats:
 [<img align="left" width="1000" alt="Snake" src="https://said-labs.github.io/Said-labs/github-contribution-grid-snake.svg">](#)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Said-labs&theme=rose)
-![](https://github-readme-stats.shion.dev/api?username=Said-labs&theme=rose&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=Said-labs&theme=rose&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=Said-labs&theme=rose&hide_border=false&include_all_commits=true&count_private=false) 
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Said-labs&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
