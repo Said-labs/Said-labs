@@ -23,24 +23,34 @@ I am Sa'id Aziz, an Informatics student eager to expand my knowledge and skills 
 
 # 📊 GitHub Stats:
 [<img align="left" width="1000" alt="Snake" src="https://said-labs.github.io/Said-labs/github-contribution-grid-snake.svg">](#)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Said-labs&theme=rose)
-![](https://streak-stats.demolab.com/?user=Said-labs&theme=rose&hide_border=false)
-![](https://github-readme-stats.shion.dev/api?username=Said-labs&theme=rose&hide_border=false&include_all_commits=true&count_private=false) 
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Said-labs&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
 
+<img src="https://github-stats-extended.vercel.app/api?username=Said-labs&show_icons=true&theme=rose&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Said-labs&theme=rose&hide_border=true" width="50%" />
 
+<br>
 
-#🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Said-labs&limit=5&theme=rose&combine_all_yearly_contributions=true)
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Said-labs&layout=compact&theme=rose&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Said-labs&theme=rose&hide_border=true" width="50%" />
 
-[![](https://komarev.com/ghpvc/?username=Said-labs&color=blue)](https://visitcount.itsvg.in)
+</div>
+
+## ⭐ Repository Stars
+
+<div align="center">
+
+<img src="https://img.shields.io/github/stars/Said-labs?label=Total%20Stars&style=for-the-badge&color=E85CA8&labelColor=F9B8D0" />
+
+</div>
 
 # 📫Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1511219453650669680) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saidazizzy) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sa-id-6037033b8) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saidaziz.expert@gmail.com)
+
+
 
 
 
