@@ -26,7 +26,7 @@ jobs:
 
       - run: git status
 
-      # ✅ Deploy langsung ke branch output (tanpa push ke main)
+      # ✅ Deploy langsung ke branch output (tanpa push manual)
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
