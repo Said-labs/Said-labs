@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk@main
+      - uses: Platane/snk@master
         with:
           github_user_name: Said-labs
           outputs: dist
