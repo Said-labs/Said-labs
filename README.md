@@ -8,7 +8,7 @@
 
 ### 🧭 Quick Navigation
 
- [👋About](#-about-me) · [🛠️ Tech Stack](#️-tech-stack) · [📊 Stats](#-github-stats) · [⭐ Repository Stars](#-repository-stars) · [📫Connect with me:](#-connect-with-me)  
+ [👋 AboutMe](#-about-me) · [🛠️ TechStack](#️-tech-stack) · [📊 Stats](#-github-stats) · [⭐ Repository Stars](#-repository-stars) · [📫 Connectwithme](#-connect-with-me)  
 
 </div>
 
