@@ -17,11 +17,11 @@
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,0,0&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,0,0,&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=twinkling" width="100%" />
 </div>
 
 
-
+<br>
 
 #  👋About Me:
 
@@ -52,7 +52,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,python&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,github,netlify,vercel,cloudflare,vscode,pycharm,git&theme=dark&perline=8" />
 </a>
 
 <br><br>
@@ -60,6 +60,22 @@
 **Languages**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white).![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<br><br>
+
+**Deployments**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=github,netlify,vercel,cloudflare&theme=dark&perline=8" />
+</a>
+
+<br><br>
+
+**Tools**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git&theme=dark&perline=8" />
+</a>
 
 
 ---
@@ -119,7 +135,7 @@
 ----
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,0,0&height=70&section=header&text=Connect%20With%20ME&fontSize=28&fontColor=fff&fontAlignY=65&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,0,0,&height=70&section=header&text=Connect%20With%20ME&fontSize=28&fontColor=fff&fontAlignY=65&animation=twinkling" width="100%" />
 </div>
 
 
@@ -157,4 +173,10 @@
 </div>
 
 
+<br>
+
+<!-- show more repos -->
+<h4 align="center">
+  <a href="https://github.com/Said-labs?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
