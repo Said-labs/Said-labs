@@ -99,8 +99,8 @@
 <img src="https://streak-stats.demolab.com/?user=Said-labs&theme=rose&hide_border=true" width="50%" />
 
 
-<br>
 
+<br/>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Said-labs&layout=compact&theme=rose&hide_border=true" width="48%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Said-labs&theme=rose&hide_border=true" width="50%" />
@@ -110,7 +110,6 @@
 </div>
 
 ---
-
 
 
 <div align="center">
