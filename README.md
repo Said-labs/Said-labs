@@ -48,34 +48,18 @@
 
 # 🛠 Tech Stack:
 
+  
+| Category | Experienced | Learning / Exploring |
+|----------|-------------|----------------------|
+| **Languages** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)  |
+| **IDEs** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) | - |
+| **Deployments** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github) | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) |
+| **Workflow** | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| **Databases** | - | - |
+| **Machine Learning** | - | - |
+| **Deep Learning Frameworks** | - | - |
+| **Soft Skills** | 💡 Problem Solving • 🤝 Team Collaboration • 🧠 Critical Thinking | ⏱️ Time Management • 🌱 Adaptability • 🎤 Basic Communication |
 
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,python,github,netlify,vercel,cloudflare,vscode,pycharm,git&theme=dark&perline=8" />
-</a>
-
-<br><br>
-
-**Languages**
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white).![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<br><br>
-
-**Deployments**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,netlify,vercel,cloudflare&theme=dark&perline=8" />
-</a>
-
-<br><br>
-
-**Tools**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git&theme=dark&perline=8" />
-</a>
 
 
 ---
@@ -87,6 +71,7 @@
 </div>
 
 </div>
+
 
 # 📊 GitHub Stats:
 
