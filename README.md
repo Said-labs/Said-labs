@@ -54,10 +54,14 @@
 | **Languages** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)  |
 | **IDEs** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) | - |
 | **Deployments** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github) | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) |
-| **Workflow** | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| **Workflow** | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) |![Zsh](https://img.shields.io/badge/-Zsh-333333?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Oh My Zsh](https://img.shields.io/badge/-OhMyZsh-000000?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Powerlevel10k](https://img.shields.io/badge/-Powerlevel10k-000000?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)|
+| **Operating Systems** | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![WSL](https://img.shields.io/badge/-WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white) |
+| **Cloud Platforms** | - | ![MEGA](https://img.shields.io/badge/-MEGA-D9272E?style=for-the-badge&logo=mega&logoColor=white) 
+| **Other Tools** | - | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 | **Databases** | - | - |
 | **Machine Learning** | - | - |
 | **Deep Learning Frameworks** | - | - |
+| **Web/Mobile Frameworks** | - | - |
 | **Soft Skills** | 💡 Problem Solving • 🤝 Team Collaboration • 🧠 Critical Thinking | ⏱️ Time Management • 🌱 Adaptability • 🎤 Basic Communication |
 
 
@@ -122,7 +126,35 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,0,0,&height=70&section=header&text=Connect%20With%20ME&fontSize=28&fontColor=fff&fontAlignY=65&animation=twinkling" width="100%" />
 </div>
 
-
+**🌍 My Geografis Roots**
+<br/>
+```geojson
+{
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": "Indonesia"
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+           [95.0, 6.0],
+           [141.0, 6.0],
+           [141.0, -11.0],
+           [95.0, -11.0],
+           [95.0, 6.0]
+         ]
+       ]
+     }
+   }
+ ]
+}
+```
+<br/>
 # 📫Connect with me:
 
 
