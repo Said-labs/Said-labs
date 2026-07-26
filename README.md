@@ -33,11 +33,13 @@
 #include <iostream>
 #include <string>
 
+using namespace std;
+
 struct Profile {
-    std::string intro;
-    std::string fun_fact;
-    std::string long_term_goal;
-    std::string open_to;
+    string intro;
+    string fun_fact;
+    string long_term_goal;
+    string open_to;
 };
 
 int main() {
@@ -55,10 +57,10 @@ int main() {
         "💬 I am open to discussions, knowledge sharing, and collaborations on projects that create added value :)"
     };
 
-    std::cout << "Intro: " << said.intro << "\n\n";
-    std::cout << "Fun Fact: " << said.fun_fact << "\n\n";
-    std::cout << "Long Term Goal: " << said.long_term_goal << "\n\n";
-    std::cout << "Open To: " << said.open_to << "\n";
+    cout << "Intro: " << said.intro << "\n\n";
+    cout << "Fun Fact: " << said.fun_fact << "\n\n";
+    cout << "Long Term Goal: " << said.long_term_goal << "\n\n";
+    cout << "Open To: " << said.open_to << "\n";
 
     return 0;
 }
