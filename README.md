@@ -28,19 +28,41 @@
 
 #  👋About Me:
 
-    "intro": "I am Sa'id Aziz, an Informatics student eager to expand my knowledge and skills in the technology sector. "
-             "I am passionate about exploring the latest innovations and committed to leveraging them to create impactful "
-             "solutions and enhance existing software.",
 
-    "fun_fact": "⚡ I enjoy interacting with others and listening to their life stories; this helps me broaden my horizons "
-                "and understand diverse perspectives across various fields.",
+```cpp
+#include <iostream>
+#include <string>
 
-    "long_term_goal": "🎯 I aim to contribute to technological developments that positively impact society while building "
-                      "a solid foundation for my career.",
+struct Profile {
+    std::string intro;
+    std::string fun_fact;
+    std::string long_term_goal;
+    std::string open_to;
+};
 
-    "open_to": "💬 I am open to discussions, knowledge sharing, and collaborations on projects that create added value :)"
+int main() {
+    Profile said {
+        "I am Sa'id Aziz, an Informatics student eager to expand my knowledge and skills in the technology sector. "
+        "I am passionate about exploring the latest innovations and committed to leveraging them to create impactful "
+        "solutions and enhance existing software.",
 
+        "⚡ I enjoy interacting with others and listening to their life stories; this helps me broaden my horizons "
+        "and understand diverse perspectives across various fields.",
 
+        "🎯 I aim to contribute to technological developments that positively impact society while building "
+        "a solid foundation for my career.",
+
+        "💬 I am open to discussions, knowledge sharing, and collaborations on projects that create added value :)"
+    };
+
+    std::cout << "Intro: " << said.intro << "\n\n";
+    std::cout << "Fun Fact: " << said.fun_fact << "\n\n";
+    std::cout << "Long Term Goal: " << said.long_term_goal << "\n\n";
+    std::cout << "Open To: " << said.open_to << "\n";
+
+    return 0;
+}
+```
 ---
 
 
@@ -73,7 +95,7 @@
 
 | Version  |
 |-------|
-| ![Python](https://img.shields.io/badge/Python-3.14.6-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-16.1.0-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Git](https://img.shields.io/badge/Git-2.55.0.3-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-2.255.5681-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-7.12.0-000000?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-12.16.2-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-2.16.5.0-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-1.125.1-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-4.81.0-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-11_25H2_(Build_26200.8875)-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-2.7.10-4D4D4D?style=for-the-badge&logo=linux&logoColor=white) ![Zsh](https://img.shields.io/badge/Zsh-5.9-FFD43B?style=for-the-badge&logo=gnu-bash&logoColor=black) |
+| ![Python](https://img.shields.io/badge/Python-3.14.6-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-16.1.0-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Git](https://img.shields.io/badge/Git-2.55.0.3-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-2.255.5681-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-7.12.0-000000?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-12.16.2-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-2.16.5.0-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-1.125.1-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-4.81.0-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-11_25H2_(Build_26200.8875)-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-2.7.10-4D4D4D?style=for-the-badge&logo=linux&logoColor=white) ![Zsh](https://img.shields.io/badge/Zsh-5.9-FFD43B?style=for-the-badge&logo=gnu-bash&logoColor=black) ![GIMP](https://img.shields.io/badge/GIMP-3.2.4-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-3.6.3-181717?style=for-the-badge&logo=github&logoColor=white) ![MSYS2](https://img.shields.io/badge/MSYS2-20260611_build-000000?style=for-the-badge&logo=gnu&logoColor=white) ![PC Manager](https://img.shields.io/badge/PC%20Manager-3.22.2.0-0078D6?style=for-the-badge&logo=microsoft&logoColor=white) ![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-150.0.4078.99-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white) ![Lenovo Vantage](https://img.shields.io/badge/Lenovo%20Vantage-10.2603.12.0-E2231A?style=for-the-badge&logo=lenovo&logoColor=white) ![Lenovo Vantage Service](https://img.shields.io/badge/Lenovo%20Service-5.1.2606.17-E2231A?style=for-the-badge&logo=lenovo&logoColor=white) ![Lenovo Now](https://img.shields.io/badge/Lenovo%20Now-4.7.0.48-E2231A?style=for-the-badge&logo=lenovo&logoColor=white) ![OneDrive](https://img.shields.io/badge/OneDrive-26.123.0628.0001-0078D4?style=for-the-badge&logo=onedrive&logoColor=white) ![Adobe Acrobat DC](https://img.shields.io/badge/Adobe%20Acrobat%20DC-22.001.20085-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-2.2628.101.0-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-26183.1903.4892.4448-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-1.0.9249-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![GeoGebra](https://img.shields.io/badge/GeoGebra-6.0.9200-2E7D32?style=for-the-badge&logo=geogebra&logoColor=white) ![Xbox](https://img.shields.io/badge/Xbox-2607.1001.21.0-107C10?style=for-the-badge&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/Steam-2.10.91.91-000000?style=for-the-badge&logo=steam&logoColor=white) ![CapCut](https://img.shields.io/badge/CapCut-9.0.0.3858-000000?style=for-the-badge&logo=capcut&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-42.0.23.0-E4405F?style=for-the-badge&logo=instagram&logoColor=white) |
 
 
 
