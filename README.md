@@ -11,7 +11,7 @@
 ### 🧭 Quick Navigation
 
 
-[👋 About](#-about-me) · [🛠️ Tech Stack](#-tech-stack) · [📊 GitHub Stats](#-github-stats) · [⭐ Repository Stars](#-repository-stars) · [📫 Connect](#-connect-with-me)
+[👋 About](#-about-me) · [🛠️ Tech Stack](#-tech-stack) · [📊 GitHub Stats](#-github-stats) · [⭐ GitHub Metrics & Community](#-github-metrics--community) · [📫 Connect](#-connect-with-me)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,0,0,&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,0,0&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=twinkling" width="100%" />
 </div>
 
 
@@ -45,7 +45,7 @@
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,0,0,&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=fff&fontAlignY=65&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,0,0&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=fff&fontAlignY=65&animation=twinkling" width="100%" />
 </div>
 
 
@@ -113,22 +113,76 @@
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,0,0,&height=70&section=header&text=Repository%20Stars&fontSize=28&fontColor=fff&fontAlignY=65&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,0,0&height=70&section=header&text=Github%20Metrics%20Dan%20Community&fontSize=28&fontColor=fff&fontAlignY=65&animation=twinkling" width="100%" />
 </div>
 
 
 
-## ⭐ Repository Stars
+## 📊 GitHub Metrics & Community
+
+<details>
+<summary>⭐ Repository Stars & Forks</summary>
+<br/>
+  
+<a href="https://github.com/Said-labs?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Said-labs?label=Total%20Stars&style=for-the-badge&color=E85CA8&labelColor=F9B8D0" />
+</a><br>
+<a href="https://github.com/Said-labs/said-labs/stargazers">
+  <img src="https://img.shields.io/github/stars/Said-labs/said-labs.svg?logo=github" />
+</a><br>
+<a href="https://github.com/Said-labs/said-labs/network/members">
+  <img src="https://img.shields.io/github/forks/Said-labs/said-labs.svg?color=blue&logo=github" />
+</a>
+
+</details>
 
 
 
-<div align="center">
+<details>
+<summary>👥 Contributors & Status</summary>
+<br/>
+  
+<a href="https://github.com/Said-labs/said-labs/graphs/contributors">
+  <img src="https://img.shields.io/github/contributors/Said-labs/said-labs?color=blue" />
+</a><br>
+<a href="https://github.com/Said-labs/said-labs">
+  <img src="https://img.shields.io/badge/status-updating-brightgreen.svg" />
+</a><br>
+<a href="https://github.com/Said-labs/said-labs/releases">
+  <img src="https://img.shields.io/github/v/release/Said-labs/said-labs?color=green" />
+</a><br>
+<img src="https://img.shields.io/github/downloads/Said-labs/said-labs/total?color=blue" />
+
+</details>
 
 
-<img src="https://img.shields.io/github/stars/Said-labs?label=Total%20Stars&style=for-the-badge&color=E85CA8&labelColor=F9B8D0" />
+
+<details>
+<summary>🌐 Community Engagement</summary>
+<br/>
+  
+<a href="https://github.com/Said-labs?tab=followers">
+  <img src="https://img.shields.io/github/followers/Said-labs?label=Friends&style=flat-square&color=009dff" />
+</a><br>
+<img src="https://komarev.com/ghpvc/?username=Said-labs&label=Profile%20Views&style=flat-square&labelColor=F9B8D0&color=E85CA8"/>
+
+</details>
 
 
-</div>
+
+<details>
+<summary>🛠️ Repository Health</summary>
+<br/>
+  
+![License](https://img.shields.io/github/license/Said-labs/said-labs?color=yellow)<br>
+![Last Commit](https://img.shields.io/github/last-commit/Said-labs/said-labs?color=brightgreen)<br>
+![Repo Size](https://img.shields.io/github/repo-size/Said-labs/LINKORA_qrcode?color=orange)<br>
+![Top Language](https://img.shields.io/github/languages/top/Said-labs/LINKORA_qrcode?color=blue)<br>
+![Issues](https://img.shields.io/github/issues/Said-labs/said-labs?color=red)<br>
+![Pull Requests](https://img.shields.io/github/issues-pr/Said-labs/said-labs?color=purple)
+
+</details>
+
 
 
 ----
@@ -203,15 +257,7 @@
 **⭐️ From [Said-labs](https://github.com/Said-labs) — FOR ALL🩵**
 
 
-<p align="center">
-    <a href="https://github.com/said-labs/said-labs"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>  
-    <a href="https://github.com/said-labs/said-labs/graphs/contributors"><img src="https://img.shields.io/github/contributors/said-labs/said-labs?color=blue"></a>
-    <a href="https://github.com/said-labs/said-labs/stargazers"><img src="https://img.shields.io/github/stars/said-labs/said-labs.svg?logo=github"></a>
-    <a href="https://github.com/said-labs/said-labs/network/members"><img src="https://img.shields.io/github/forks/said-labs/said-labs.svg?color=blue&logo=github"></a>
-   <img src="https://komarev.com/ghpvc/?username=Said-labs&label=Profile%20Views&style=flat-square&labelColor=F9B8D0&color=E85CA8"/>
-  <img src="https://img.shields.io/github/followers/Said-labs?label=Friends&style=flat-square&color=009dff)](https://github.com/Said-labs?tab=followers"><a/>
 
-</p>
 
 
 
