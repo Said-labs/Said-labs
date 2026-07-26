@@ -2,6 +2,8 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVoNzhhMGZjemdsM25qb3I0amxzamliYThnYmFneXNlbWlvOW8xZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ypdctvKgoeJiZoED1B/giphy.gif" width="1000">
 </h2>
 
+
+
 ---
 
 <div align="center">
@@ -183,8 +185,14 @@
 
 **⭐️ From [Said-labs](https://github.com/Said-labs) — FOR ALL🩵**
 
-<img src="https://komarev.com/ghpvc/?username=Said-labs&label=Profile%20Views&style=flat-square&labelColor=F9B8D0&color=E85CA8"/>
 
+<p align="center">
+    <a href="https://github.com/said-labs/said-labs"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>  
+    <a href="https://github.com/said-labs/said-labs/graphs/contributors"><img src="https://img.shields.io/github/contributors/said-labs/said-labs?color=blue"></a>
+    <a href="https://github.com/said-labs/said-labs/stargazers"><img src="https://img.shields.io/github/stars/said-labs/said-labs.svg?logo=github"></a>
+    <a href="https://github.com/said-labs/said-labs/network/members"><img src="https://img.shields.io/github/forks/said-labs/said-labs.svg?color=blue&logo=github"></a>
+   <img src="https://komarev.com/ghpvc/?username=Said-labs&label=Profile%20Views&style=flat-square&labelColor=F9B8D0&color=E85CA8"/>
+</p>
 
 </div>
 
