@@ -10,7 +10,8 @@
 
 ### 🧭 Quick Navigation
 
- [👋 About](#-about-me) · [🛠️ TechStack](#️-tech-stack) · [📊 Stats](#-github-stats) · [⭐ Repository Stars](#-repository-stars) · [📫 Connect](#-connect-with-me)  
+
+[👋 About](#-about-me) · [🛠️ Tech Stack](#-tech-stack) · [📊 GitHub Stats](#-github-stats) · [⭐ Repository Stars](#-repository-stars) · [📫 Connect](#-connect-with-me)
 
 </div>
 
@@ -208,7 +209,13 @@
     <a href="https://github.com/said-labs/said-labs/stargazers"><img src="https://img.shields.io/github/stars/said-labs/said-labs.svg?logo=github"></a>
     <a href="https://github.com/said-labs/said-labs/network/members"><img src="https://img.shields.io/github/forks/said-labs/said-labs.svg?color=blue&logo=github"></a>
    <img src="https://komarev.com/ghpvc/?username=Said-labs&label=Profile%20Views&style=flat-square&labelColor=F9B8D0&color=E85CA8"/>
+  <img src="https://img.shields.io/github/followers/Said-labs?label=Friends&style=flat-square&color=009dff)](https://github.com/Said-labs?tab=followers"><a/>
+
 </p>
+
+
+
+
 
 </div>
 
