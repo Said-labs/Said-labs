@@ -149,7 +149,7 @@ int main() {
 <details>
 <summary>⭐ Repository Stars & Forks</summary>
 <br/>
-  
+  <div align="center">
 <a href="https://github.com/Said-labs?tab=repositories">
   <img src="https://img.shields.io/github/stars/Said-labs?label=Total%20Stars&style=for-the-badge&color=E85CA8&labelColor=F9B8D0" />
 </a><br>
@@ -162,12 +162,12 @@ int main() {
 
 </details>
 
-
+<div/>
 
 <details>
 <summary>👥 Contributors & Status</summary>
 <br/>
-  
+  <div align="center">
 <a href="https://github.com/Said-labs/said-labs/graphs/contributors">
   <img src="https://img.shields.io/github/contributors/Said-labs/said-labs?color=blue" />
 </a><br>
@@ -181,12 +181,13 @@ int main() {
 
 </details>
 
+<div/>
 
 
 <details>
 <summary>🌐 Community Engagement</summary>
 <br/>
-  
+  <div align="center">
 <a href="https://github.com/Said-labs?tab=followers">
   <img src="https://img.shields.io/github/followers/Said-labs?label=Friends&style=flat-square&color=009dff" />
 </a><br>
@@ -194,12 +195,14 @@ int main() {
 
 </details>
 
-
+<div/>
 
 <details>
 <summary>🛠️ Repository Health</summary>
 <br/>
   
+  <div align="center">
+    
 ![License](https://img.shields.io/github/license/Said-labs/said-labs?color=yellow)<br>
 ![Last Commit](https://img.shields.io/github/last-commit/Said-labs/said-labs?color=brightgreen)<br>
 ![Repo Size](https://img.shields.io/github/repo-size/Said-labs/LINKORA_qrcode?color=orange)<br>
@@ -209,7 +212,7 @@ int main() {
 
 </details>
 
-
+<div/>
 
 ----
 
