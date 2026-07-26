@@ -66,6 +66,14 @@
 | **Web/Mobile Frameworks** | - | - |
 | **Soft Skills** | 💡 Problem Solving • 🤝 Team Collaboration • 🧠 Critical Thinking | ⏱️ Time Management • 🌱 Adaptability • 🎤 Basic Communication |
 
+<br/> 
+
+| Version  |
+|-------|
+| ![Python](https://img.shields.io/badge/Python-3.14.6-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-16.1.0-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Git](https://img.shields.io/badge/Git-2.55.0.3-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-2.255.5681-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-7.12.0-000000?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-12.16.2-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-2.16.5.0-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-1.125.1-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-4.81.0-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-11_25H2_(Build_26200.8875)-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-2.7.10-4D4D4D?style=for-the-badge&logo=linux&logoColor=white) ![Zsh](https://img.shields.io/badge/Zsh-5.9-FFD43B?style=for-the-badge&logo=gnu-bash&logoColor=black) |
+
+
+
 
 
 ---
@@ -128,8 +136,12 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,0,0,&height=70&section=header&text=Connect%20With%20ME&fontSize=28&fontColor=fff&fontAlignY=65&animation=twinkling" width="100%" />
 </div>
 
+
 **🌍 My Geografis Roots**
+
+
 <br/>
+
 ```geojson
 {
  "type": "FeatureCollection",
@@ -157,6 +169,8 @@
 }
 ```
 <br/>
+
+
 # 📫Connect with me:
 
 
