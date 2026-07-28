@@ -153,85 +153,113 @@ int main() {
 
 
 ## 📊 GitHub Metrics & Community
-
-<details>
-<summary>⭐ Repository Stars & Forks</summary>
 <br/>
-  <div align="center">
-<a href="https://github.com/Said-labs?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Said-labs?label=Total%20Stars&style=for-the-badge&color=E85CA8&labelColor=F9B8D0" />
-</a><br>
-<a href="https://github.com/Said-labs/said-labs/stargazers">
-  <img src="https://img.shields.io/github/stars/Said-labs/said-labs.svg?logo=github" />
-</a><br>
-<a href="https://github.com/Said-labs/said-labs/network/members">
-  <img src="https://img.shields.io/github/forks/Said-labs/said-labs.svg?color=blue&logo=github" />
-</a>
-
-</details>
 
 
 <details>
-<summary>👥 Contributors</summary>
+<summary>⭐ Repository Overview</summary>
+<br/>
 <div align="center">
 
-  
-  <a href="https://github.com/Said-labs/Said-labs/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Said-labs/Said-labs?color=blue&style=for-the-badge&logo=github" alt="Contributors"/>
-  </a><br>
 
-  
-  <a href="https://github.com/Said-labs?tab=repositories">
-    <img src="https://img.shields.io/github/repo-count/Said-labs?color=2563EB&style=for-the-badge&logo=github" alt="Repositories"/>
-  </a><br>
+<a href="https://github.com/Said-labs/said-labs/stargazers">
+  <img src="https://img.shields.io/github/stars/Said-labs/said-labs.svg?logo=github&color=E85CA8" alt="Repo Stars"/>
+</a><br>
 
-  
-  <a href="https://github.com/Said-labs/Said-labs">
-    <img src="https://img.shields.io/badge/status-updating-brightgreen.svg?style=for-the-badge" alt="Status"/>
-  </a><br>
+<a href="https://github.com/Said-labs/said-labs/network/members">
+  <img src="https://img.shields.io/github/forks/Said-labs/said-labs.svg?color=2563EB&logo=github" alt="Repo Forks"/>
+</a><br>
 
-  
-  <a href="https://github.com/Said-labs/Said-labs/releases">
-    <img src="https://img.shields.io/github/v/release/Said-labs/Said-labs?color=green&style=for-the-badge" alt="Latest Release"/>
-  </a><br>
-
-
-  <img src="https://img.shields.io/github/downloads/Said-labs/Said-labs/total?color=blue&style=for-the-badge" alt="Downloads"/>
+<a href="https://github.com/Said-labs?tab=repositories">
+  <img src="https://img.shields.io/github/repo-count/Said-labs?color=2563EB&style=for-the-badge&logo=github" alt="Repositories"/>
+</a><br>
+<a href="https://github.com/Said-labs?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Said-labs?label=Total%20Stars&style=for-the-badge&color=E85CA8&labelColor=F9B8D0" alt="Total Stars"/>
+</a><br>
 
 </div>
-
 </details>
+
+
+
+<details>
+<summary>📂 Project Info</summary>
+<br/>
+<div align="center">
+
+<a href="https://github.com/Said-labs/Said-labs">
+  <img src="https://img.shields.io/badge/Project%20Status-Updating-brightgreen.svg?style=for-the-badge" alt="Project Status"/>
+</a><br>
+
+<img src="https://img.shields.io/github/downloads/Said-labs/Said-labs/total?color=blue&style=for-the-badge" alt="Total Downloads"/>
+<br>
+
+<a href="https://github.com/Said-labs/Said-labs/releases">
+  <img src="https://img.shields.io/github/v/release/Said-labs/Said-labs?color=green&style=for-the-badge" alt="Latest Release"/>
+</a><br>
+
+</div>
+</details>
+
+
+
+<details>
+<summary>🛠️ Development Activity</summary>
+<br/>
+<div align="center">
+
+
+<img src="https://img.shields.io/github/issues/Said-labs/said-labs?color=red&style=for-the-badge" alt="Issues"/><br>
+<img src="https://img.shields.io/github/issues-pr/Said-labs/said-labs?color=green&style=for-the-badge" alt="Pull Requests"/><br/>
+<img src="https://img.shields.io/github/commit-activity/m/Said-labs/Said-labs?style=for-the-badge&color=purple" alt="Commit Activity"/><br>
+
+</div>
+</details>
+
+
+
+<details>
+<summary>👥 Community Builders</summary>
+<br/>
+<div align="center">
+
+<a href="https://github.com/Said-labs/Said-labs/graphs/contributors">
+  <img src="https://img.shields.io/github/contributors/Said-labs/Said-labs?color=blue&style=for-the-badge&logo=github" alt="Contributors"/>
+</a>
+
+</div>
+</details>
+
 
 
 <details>
 <summary>🌐 Community Engagement</summary>
 <br/>
-  <div align="center">
-<a href="https://github.com/Said-labs?tab=followers">
-  <img src="https://img.shields.io/github/followers/Said-labs?label=Friends&style=flat-square&color=009dff" />
-</a><br>
-<img src="https://komarev.com/ghpvc/?username=Said-labs&label=Profile%20Views&style=flat-square&labelColor=F9B8D0&color=E85CA8"/>
+<div align="center">
 
+<a href="https://github.com/Said-labs?tab=followers">
+  <img src="https://img.shields.io/github/followers/Said-labs?label=Friends&style=for-the-badge&color=009dff" alt="Friends"/>
+</a><br>
+
+<img src="https://komarev.com/ghpvc/?username=Said-labs&label=Profile%20Views&style=for-the-badge&labelColor=F9B8D0&color=E85CA8" alt="Profile Views"/>
+
+</div>
 </details>
 
-<div/>
 
 <details>
-<summary>🛠️ Repository Health</summary>
+<summary>🩺 Repository Health</summary>
 <br/>
-  
-  <div align="center">
-    
-![License](https://img.shields.io/github/license/Said-labs/said-labs?color=yellow)<br>
-![Last Commit](https://img.shields.io/github/last-commit/Said-labs/said-labs?color=brightgreen)<br>
-![Repo Size](https://img.shields.io/github/repo-size/Said-labs/LINKORA_qrcode?color=orange)<br>
-![Top Language](https://img.shields.io/github/languages/top/Said-labs/LINKORA_qrcode?color=blue)<br>
-![Issues](https://img.shields.io/github/issues/Said-labs/said-labs?color=red)<br>
-![Pull Requests](https://img.shields.io/github/issues-pr/Said-labs/said-labs?color=purple)
+<div align="center">
 
+<img src="https://img.shields.io/github/license/Said-labs/said-labs?color=yellow&style=for-the-badge" alt="License"/><br>
+<img src="https://img.shields.io/github/last-commit/Said-labs/said-labs?color=brightgreen&style=for-the-badge" alt="Last Commit"/><br>
+<img src="https://img.shields.io/github/repo-size/Said-labs/Said-labs?color=orange&style=for-the-badge" alt="Repo Size"/><br>
+<img src="https://img.shields.io/github/languages/top/Said-labs/Said-labs?color=blue&style=for-the-badge" alt="Top Language"/>
+
+</div>
 </details>
 
-<div/>
 
 ----
 
