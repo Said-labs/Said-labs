@@ -242,6 +242,12 @@ int main() {
 </a><br>
 
 <img src="https://komarev.com/ghpvc/?username=Said-labs&label=Profile%20Views&style=for-the-badge&labelColor=F9B8D0&color=E85CA8" alt="Profile Views"/>
+<br>
+
+<a href="https://github.com/Said-labs/said-labs/watchers">
+  <img src="https://img.shields.io/github/watchers/Said-labs/said-labs?style=for-the-badge&color=yellow&logo=github" alt="Watchers"/>
+</a>
+
 
 </div>
 </details>
