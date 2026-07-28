@@ -119,21 +119,29 @@ int main() {
 
 <div align="center">
 
-[<img align="left" width="1000" alt="Snake" src="https://said-labs.github.io/Said-labs/github-contribution-grid-snake.svg">](#)
-
-<img src="https://github-stats-extended.vercel.app/api?username=Said-labs&show_icons=true&theme=rose&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=Said-labs&theme=rose&hide_border=true" width="50%" />
-
-
+| 🐍 Contribution Journey |
+|-------------------------|
+| <img width="1000" alt="Contribution Journey" src="https://said-labs.github.io/Said-labs/github-contribution-grid-snake.svg" /> |
 
 <br/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Said-labs&layout=compact&theme=rose&hide_border=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Said-labs&theme=rose&hide_border=true" width="50%" />
+| 📊 Profile Insights | 🔥 Contribution Streak |
+|---------------------|------------------------|
+| <img src="https://github-stats-extended.vercel.app/api?username=Said-labs&show_icons=true&theme=rose&hide_border=true" /> | <img src="https://streak-stats.demolab.com/?user=Said-labs&theme=rose&hide_border=true" /> |
 
+<br/>
+
+| 🌐 Top Languages | 📈 Activity Overview |
+|-----------------|-----------------------|
+| <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Said-labs&layout=compact&theme=rose&hide_border=true" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=Said-labs&theme=rose&hide_border=true" /> |
 
 </div>
-</div>
+
+
+
+
+
+
 
 ---
 
@@ -255,6 +263,8 @@ int main() {
 }
 ```
 <br/>
+
+
 
 
 # 📫Connect with me:
