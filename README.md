@@ -170,26 +170,37 @@ int main() {
 
 </details>
 
-<div/>
 
 <details>
-<summary>👥 Contributors & Status</summary>
-<br/>
-  <div align="center">
-<a href="https://github.com/Said-labs/said-labs/graphs/contributors">
-  <img src="https://img.shields.io/github/contributors/Said-labs/said-labs?color=blue" />
-</a><br>
-<a href="https://github.com/Said-labs/said-labs">
-  <img src="https://img.shields.io/badge/status-updating-brightgreen.svg" />
-</a><br>
-<a href="https://github.com/Said-labs/said-labs/releases">
-  <img src="https://img.shields.io/github/v/release/Said-labs/said-labs?color=green" />
-</a><br>
-<img src="https://img.shields.io/github/downloads/Said-labs/said-labs/total?color=blue" />
+<summary>👥 Contributors</summary>
+<div align="center">
+
+  
+  <a href="https://github.com/Said-labs/Said-labs/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Said-labs/Said-labs?color=blue&style=for-the-badge&logo=github" alt="Contributors"/>
+  </a><br>
+
+  
+  <a href="https://github.com/Said-labs?tab=repositories">
+    <img src="https://img.shields.io/github/repo-count/Said-labs?color=2563EB&style=for-the-badge&logo=github" alt="Repositories"/>
+  </a><br>
+
+  
+  <a href="https://github.com/Said-labs/Said-labs">
+    <img src="https://img.shields.io/badge/status-updating-brightgreen.svg?style=for-the-badge" alt="Status"/>
+  </a><br>
+
+  
+  <a href="https://github.com/Said-labs/Said-labs/releases">
+    <img src="https://img.shields.io/github/v/release/Said-labs/Said-labs?color=green&style=for-the-badge" alt="Latest Release"/>
+  </a><br>
+
+
+  <img src="https://img.shields.io/github/downloads/Said-labs/Said-labs/total?color=blue&style=for-the-badge" alt="Downloads"/>
+
+</div>
 
 </details>
-
-<div/>
 
 
 <details>
