@@ -135,12 +135,13 @@ int main() {
 |-----------------|-----------------------|
 | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Said-labs&layout=compact&theme=rose&hide_border=true" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=Said-labs&theme=rose&hide_border=true" /> |
 
+
+| Contribution Log |
+|------------------|
+|![GitHub metrics](https://metrics.lecoq.io/Said-labs)|
+
+
 </div>
-
-
-
-
-
 
 
 ---
